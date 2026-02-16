@@ -71,9 +71,9 @@ Key engineering aspects:
 
 Example structure:
 
-/docs        Project reports and milestones  
-/schematic   Schematic design files  
-/layout      Layout files   
+/docs                     (Project reports and milestones)
+
+/schematics and layouts   (Schematic design and layout files)
 
 ---
 
