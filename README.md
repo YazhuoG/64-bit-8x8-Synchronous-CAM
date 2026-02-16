@@ -73,8 +73,7 @@ Example structure:
 
 /docs        Project reports and milestones  
 /schematic   Schematic design files  
-/layout      Layout files  
-/sim         Simulation results  
+/layout      Layout files   
 
 ---
 
