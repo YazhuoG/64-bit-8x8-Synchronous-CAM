@@ -25,7 +25,7 @@ The CAM system consists of:
 
 The design supports parallel comparison to enable fast search operations.
 
-*(Add architecture or bitcell diagram here if available)*
+![Diagram Screenshot](diagram.png)
 
 ---
 
