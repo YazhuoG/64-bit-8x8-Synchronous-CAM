@@ -69,8 +69,6 @@ Key engineering aspects:
 
 ## Repository Structure
 
-Example structure:
-
 /docs                     (Project reports and milestones)
 
 /schematics and layouts   (Schematic design and layout files)
